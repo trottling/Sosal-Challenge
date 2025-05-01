@@ -1,5 +1,7 @@
 # Sosal-Challenge
 
+![video_2025-05-01_12-31-10_1](https://github.com/user-attachments/assets/cd986f64-85b2-49fa-8859-9d7114f6cc09)
+
 Графическое приложение на PyQt6 с убегающей кнопкой "Нет".
 
 ## Описание
@@ -37,6 +39,3 @@ python main.py
 
 - Приложение корректно работает только на системах с поддержкой PyQt6 и pyautogui.
 - Для корректной работы pyautogui может потребоваться разрешение на управление мышью.
-
-![изображение](https://github.com/user-attachments/assets/c06b1282-2013-4d66-9659-8b46ddeb85e0)
-
